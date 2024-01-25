@@ -1,4 +1,4 @@
-This GitHub repository contains a signal processing project developed using MATLAB and Python programming languages. The project demonstrates how a signal is denoised using the moving average algorithm.
+
 Bu GitHub deposu, MATLAB ve Python programlama dillerini kullanarak geliştirilmiş bir işaret işleme projesini içermektedir. Proje, kayan ortalama algoritması kullanılarak bir işaretin gürültüden nasıl arındırıldığını göstermektedir.
 
 Proje Özellikleri:
@@ -23,6 +23,8 @@ Katkıda Bulunma:
 Eğer projeye katkıda bulunmak, hataları düzeltmek ya da özellik eklemek istiyorsanız, lütfen forklayın ve pull request gönderin. Katkılarınızı bekliyoruz!
 
 ----ENGLISH----
+This GitHub repository contains a signal processing project developed using MATLAB and Python programming languages. The project demonstrates how a signal is denoised using the moving average algorithm.
+
 ""Project Features:
 
 Developed with MATLAB and Python libraries.

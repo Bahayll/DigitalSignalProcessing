@@ -40,5 +40,30 @@ ayarlanabilir pencere boyutu2 için) SNR ve RMSE ile karşılaştırınız, çok
 
 ![Figure 1 26 01 2024 00_01_49](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/28e57712-885e-430b-91a2-4e121d45f7ba)
 
+![Figure 2 26 01 2024 00_02_06](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/294b50c5-5996-4547-b078-0f6ca55f042a)
+
+![Figure 3 26 01 2024 00_02_16](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/7f5bc192-e551-4a2a-93c1-72a3b7c4313f)
+
+![Figure 4 26 01 2024 00_02_25](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/1317b02d-2f28-4516-bcde-47bcddcec8c3)
+
+![Figure 5 26 01 2024 00_02_33](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/d2912f5d-68f4-41ab-a17a-f9e4fd45c5b8)
+
+![Figure 6 26 01 2024 00_02_38](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/eed01482-2846-4a9b-96ab-576aa26397f4)
+
+![Figure 7 26 01 2024 00_02_46](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/8fe4aa56-0760-4b7a-a3e8-05311143ecd7)
+
+![Figure 8 26 01 2024 00_02_53](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/e76810c7-d91c-4c36-9825-5441c849b364)
+
+![Figure 9 26 01 2024 00_03_02](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/c387f131-ae4d-4c6d-9140-dd0a524ba8a9)
+
+![Figure 10 26 01 2024 00_03_10](https://github.com/Bahayll/DigitalSignalProcessing/assets/120746431/0fb1515f-c555-4b1e-8f23-03cc6c44b3c8)
+
+
+
+
+
+
+
+
 
 

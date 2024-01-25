@@ -1,0 +1,16 @@
+----------------------------------- SAYISAL İŞARET İŞLEME PROJE -----------------------------
+
+---------------------------------   BAHA YOLAL - 200401031   ----------------------------
+
+-PYTHON 
+
+main.py  dosyasının çalıştırılıp öğrenci numarasının(200401031) girilmesi yeterlidir.
+
+-MATLAB
+
+main.m dosyasının çalıştırılıp öğrenci numarasının(200401031) girilmesi yeterlidir.
+
+
+
+
+

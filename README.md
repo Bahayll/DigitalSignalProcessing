@@ -1,4 +1,4 @@
------------------------------------------------------------ MATLAB ve PYTHON kullanarak kayan ortalama algoritması ile bir işaretin gürültüden arındırılması ---------------------------------------------------------------------------
+--------- MATLAB ve PYTHON kullanarak kayan ortalama algoritması ile bir işaretin gürültüden arındırılması -----------
 
 1- Gürültüsüz orijinal bir sinüs işareti tanımlayın.  
 𝑥(𝑡) = 𝐴𝑠𝑖𝑛(2𝜋𝑓𝑡) 

@@ -1,3 +1,53 @@
+This GitHub repository contains a signal processing project developed using MATLAB and Python programming languages. The project demonstrates how a signal is denoised using the moving average algorithm.
+Bu GitHub deposu, MATLAB ve Python programlama dillerini kullanarak geliştirilmiş bir işaret işleme projesini içermektedir. Proje, kayan ortalama algoritması kullanılarak bir işaretin gürültüden nasıl arındırıldığını göstermektedir.
+
+Proje Özellikleri:
+
+MATLAB ve Python kütüphaneleri ile geliştirilmiştir.
+Kayan ortalama algoritması kullanılarak gürültüden arındırma işlemi gerçekleştirilir.
+Pencere boyutları değiştirildiğinde gürültüden arındırma oranının nasıl değiştiği analiz edilir.
+Sonuçlar, görselleştirmeler ve istatistikler ile kapsamlı bir şekilde sunulur.
+Kullanılan Teknolojiler:
+
+MATLAB
+Python
+İşaret İşleme Algoritmaları
+Depo İçeriği:
+
+MATLAB ve Python kodları
+Görselleştirmeler
+İstatistikler ve Analizler
+Bu depo, işaret işleme ve gürültü azaltma konularına ilgi duyanların, öğrencilerin ve araştırmacıların kullanımı için tasarlanmıştır. Projenin detaylarına göz atabilir ve çeşitli pencere boyutları altında gürültüden arındırma performansını anlamak için analizleri inceleyebilirsiniz.
+
+Katkıda Bulunma:
+Eğer projeye katkıda bulunmak, hataları düzeltmek ya da özellik eklemek istiyorsanız, lütfen forklayın ve pull request gönderin. Katkılarınızı bekliyoruz!
+
+----ENGLISH----
+""Project Features:
+
+Developed with MATLAB and Python libraries.
+Denoising process using the moving average algorithm.
+Analysis of how the denoising ratio changes when window sizes are altered.
+Comprehensive presentation of results with visualizations and statistics.
+
+Technologies Used:
+
+MATLAB
+Python
+Signal Processing Algorithms
+
+Repository Contents:
+
+MATLAB and Python code files
+Visualizations
+Statistics and Analyses
+This repository is designed for those interested in signal processing and noise reduction, including students and researchers. You can explore the details of the project and examine analyses to understand denoising performance under various window sizes.
+
+Contribution:
+
+If you wish to contribute to the project, fix errors, or add features, please fork the repository and submit a pull request. Your contributions are welcome!""
+
+
 --------- MATLAB ve PYTHON kullanarak kayan ortalama algoritması ile bir işaretin gürültüden arındırılması -----------
 
 1- Gürültüsüz orijinal bir sinüs işareti tanımlayın.  
